@@ -1,8 +1,25 @@
- # Propuestas
+# Propuestas
+
+## Electronic starter Kit MonkMakes para micro:bit
+
+![](./images/in_box_read_web.jpg)
+
+### Aerogenerador
+
+![](./images/motor_fan_wired_up.jpg)
+
+## Nezha Inventor's kit
+
+[Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+
+![](https://images.elecfreaks.com/wysiwyg/products/2020/EF08232/EF08232-06.jpg)
+
+## Kit de ciencia y domótica
 
 [Kit micro:bit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ![](https://images.elecfreaks.com/catalog/product/cache/037e42f85b954a15628ba0bc083aa4bd/7/1/71mkh0lfqjl._ac_sl1500__1.jpg)
+
 
 
 [Kit de ciencia del clima: micro:bit](https://www.elecfreaks.com/micro-bit-smart-science-iot-kit.html)
