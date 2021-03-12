@@ -30,6 +30,7 @@
 
 ![](https://images.elecfreaks.com/catalog/product/cache/037e42f85b954a15628ba0bc083aa4bd/e/f/ef08197.jpg)
 
+
 ## Seguidor solar con Arduino
 
 [Seguidor Solar con Arduino](https://es.aliexpress.com/item/4000955310103.html)
