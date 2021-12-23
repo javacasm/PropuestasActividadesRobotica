@@ -35,9 +35,13 @@
 
 [Seguidor Solar con Arduino](https://es.aliexpress.com/item/4000955310103.html)
 
+
 ![](https://ae01.alicdn.com/kf/Hd31c5c3258344d8db9624e5202b3a158t/Arduino-equipo-de-seguimiento-Solar-inteligente-programaci-n-de-eje-piezas-de-Juguetes.jpg_Q90.jpg)
 
 [códgo](https://github.com/shihaipeng03/Sunflower)
+
+[montaje](https://github.com/shihaipeng03/Sunflower/blob/master/Sunflower%202020%E5%AE%89%E8%A3%85%E8%B0%83%E8%AF%95%E8%AF%B4%E6%98%8E.pdf)
+
 [Proyecto original](https://create.arduino.cc/editor/wjd76/e225717a-ae15-4282-98bd-f9cf09400bee/preview)
 
 ## Impresora bluetooth
